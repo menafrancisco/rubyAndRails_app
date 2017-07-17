@@ -1,7 +1,7 @@
 class ArticlesController < ApplicationController
 
 
-  #probado git mucho mas y mas
+  #probado git mucho mas y mas uno de los varios  commit en la rama principal
 
 
   def index
