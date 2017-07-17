@@ -1,5 +1,9 @@
 class ArticlesController < ApplicationController
 
+
+  #probado git
+
+  
   def index
     @articles = Article.all
   end
